@@ -25,8 +25,6 @@
             <div id="header_h2">Jestem Sławek!</div>
             <div id="header_h3">
                 Fajnie że odwiedziłeś moją strone!<br>
-                Mam nadzieję, że zapoznasz się z moją ofertą i z niej skorzystasz :)<br>
-                Czekam na twój email ! :)
             </div>
         </div>
             <div id="arrow">
